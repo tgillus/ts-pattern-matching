@@ -6,11 +6,11 @@
   "author": "Tramaine L. Gillus",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^18.11.11",
-    "tsx": "^3.12.1",
-    "typescript": "^4.9.4"
+    "@types/node": "18.11.13",
+    "tsx": "3.12.1",
+    "typescript": "4.9.4"
   },
   "dependencies": {
-    "ts-pattern": "^4.0.6"
+    "ts-pattern": "4.0.6"
   }
 }
